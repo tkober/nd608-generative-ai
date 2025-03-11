@@ -1,0 +1,396 @@
+,Unnamed: 0,text,embeddings,distances
+38,38,"March 2 – Russian invasion of Ukraine: Russia captures its first large city, the Black Sea port of Kherson, as shelling intensifies across many parts of Ukraine, including civilian areas.","[ 0.00071037 -0.01834074  0.01266415 ...  0.01603701  0.01426785
+  0.01867167]",0.10915425093456554
+61,61,"April 3 – Russian invasion of Ukraine: As Russia's forces retreat from areas near Kyiv, it is accused by Ukraine of war crimes, amid mounting evidence of indiscriminate civilian killings, including the Bucha massacre.","[-0.01213661 -0.0124027   0.00538684 ...  0.01850995  0.01417452
+  0.0066005 ]",0.1113814454497779
+174,174,"November 11 – Russian invasion of Ukraine: Ukrainian forces recapture Kherson, the only regional capital to be taken by Russia since the start of the war.","[-0.0123621  -0.01402344  0.01666389 ...  0.0232208   0.00702435
+  0.01276638]",0.11555841390398869
+145,145,"September 21 – Russian invasion of Ukraine: Following a major counteroffensive by Ukraine in the east of the country, Putin announces a partial mobilisation of Russia and threatens nuclear retaliation, saying ""this is not a bluff"".","[-0.02561821 -0.02204061  0.01328825 ...  0.0038619   0.0199707
+ -0.00908456]",0.11692608060164622
+87,87,May 16 – Russian invasion of Ukraine: The Siege of Mariupol ends in a Russian victory as Ukrainian troops are evacuated from Mariupol.,"[-0.01835823 -0.00647204  0.01109036 ...  0.0063442   0.01682411
+ -0.00907684]",0.11925716455480051
+157,157,"October 8 – Russian invasion of Ukraine: An explosion occurs on the Crimean Bridge connecting Crimea and Russia, killing three and causing a partial collapse of the only road bridge between the Crimean Peninsula and the Russian mainland. Two days later, retaliatory missile strikes are conducted by Russia across Ukraine, the most widespread since the start of the invasion, notably including attacks on Kyiv.","[-0.01395794 -0.00827283  0.01059915 ...  0.00300756  0.01828386
+  0.00603799]",0.12110205923738848
+26,26,"February 21 – February 24 – Russian President Vladimir Putin signs a decree declaring the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and, despite international condemnation and sanctions, begins a full-scale invasion of Ukraine; at dawn on 24 February missiles strike Kyiv. Ukraine severs diplomatic relations with Russia, followed by the Federated States of Micronesia on 25 February.","[-0.01192772 -0.00697559  0.00487892 ...  0.00707543  0.02739649
+  0.0109759 ]",0.1213398615247856
+33,33,"February 28 – Russian invasion of Ukraine: Russian and Ukrainian officials meet on the Belarus-Ukraine border for the first round of peace talks, with no resolution.","[-0.01181807 -0.00887778  0.00913071 ...  0.00769534  0.01516305
+ -0.00267788]",0.1260494153249252
+37,37,"March 1 – Russian invasion of Ukraine: In an emergency session, United Nations member states pass a resolution deploring Russia's invasion of Ukraine and calling for the immediate withdrawal of its forces.","[-0.00762819 -0.01614472  0.0035051  ... -0.00247031  0.02747435
+ -0.00363385]",0.1262184672556096
+49,49,March 9 – Russian invasion of Ukraine: Russia is condemned by world leaders following an air strike in Mariupol that destroys a hospital including a maternity and children's ward.,"[ 0.00109493 -0.01044342  0.00269089 ...  0.01187131  0.0178902
+ -0.00322075]",0.12679255944865375
+53,53,March 16 – Russian invasion of Ukraine: A Russian airstrike on the Mariupol Theatre in Mariupol kills an estimated 600 civilians sheltering inside.,"[-0.00895627 -0.00560088  0.00517623 ...  0.01021735  0.01641982
+ -0.0004902 ]",0.12726778416713103
+166,166,"October 29 – Russian invasion of Ukraine: In response to an alleged Ukrainian drone attack against the Black Sea Fleet, Russia suspends its participation in the Black Sea Grain Initiative.","[-0.01514557 -0.03898653  0.0151845  ...  0.01386072  0.01070053
+  0.00903283]",0.12849644975342145
+67,67,"April 8 – Russian invasion of Ukraine: Russia is condemned by world leaders following a missile attack on Kramatorsk train station, which kills 59 civilians trying to evacuate, including seven children.","[-0.00090714 -0.0084762  -0.0029121  ...  0.01550992  0.0130845
+  0.01189732]",0.12946089909107739
+3,3," – The ongoing Russian invasion of Ukraine escalated after Russian president Vladimir Putin announced a ""special military operation"", stating that it was to support the Russian-backed breakaway republics of Donetsk and Luhansk, whose paramilitary forces had been fighting Ukraine in the Donbas conflict since 2014.","[-0.01472113 -0.00763269  0.01405742 ...  0.00193472  0.02070782
+  0.01077205]",0.13050339291125068
+72,72,"April 18 – Russian invasion of Ukraine: The battle of Donbas begins, leading to the deaths of several thousand military personnel and civilians.","[-6.26070239e-03 -4.08569723e-03  4.85952757e-03 ...  1.14832614e-02
+  4.54107905e-03  5.77685933e-05]",0.1307663084078231
+117,117,"July 22 – Russian invasion of Ukraine: Russia and Ukraine sign the Black Sea Grain Initiative, an agreement brokered by Turkey and the United Nations to facilitate the shipment of grain exports and reduce soaring global food prices.","[-0.00496147 -0.03016364  0.01083561 ...  0.00561199  0.01701074
+  0.00512652]",0.13429171809434526
+39,39,March 2 – Russian invasion of Ukraine: The United Nations reports that over a million refugees have now fled from Ukraine to other countries.,"[-0.00989074 -0.01622641  0.00717365 ...  0.00346303  0.00228382
+ -0.00300753]",0.13496924933259746
+153,153,"September 30 – Annexation of Southern and Eastern Ukraine: Russian President Vladimir Putin signs treaties absorbing the occupied regions of Donetsk, Luhansk, Kherson and Zaporizhzhia into the Russian Federation. This annexation is seen as a breach of international law by the global community.","[-0.0004458  -0.00149519  0.02333529 ...  0.01013823  0.00955718
+  0.0051192 ]",0.13544827164542672
+29,29,"February 27 – Russian invasion of Ukraine: Putin orders Russia's nuclear deterrent forces to be on ""special alert"", their highest level, in response to what he calls ""aggressive statements"" by NATO. The move is condemned by the US.","[-0.01828605 -0.03140627  0.00753031 ... -0.00169303  0.023529
+  0.0028319 ]",0.13752233710298412
+30,30,February 27 – Russian invasion of Ukraine: European nations ban Russian flights in their airspace.,"[-0.00621656 -0.0217627   0.02187625 ...  0.01457155  0.02248182
+ -0.00594216]",0.13849789453490535
+56,56,"March 24 – Russian invasion of Ukraine: NATO announces that four new battlegroups totaling 40,000 troops will be deployed in Bulgaria, Hungary, Romania and Slovakia, along with enhanced readiness for potential chemical, biological, radiological and nuclear threats.","[ 3.01823347e-05 -1.73785649e-02  7.55224610e-03 ... -4.00223816e-03
+  2.40328107e-02 -3.25282803e-03]",0.14607888893283782
+71,71,"April 14 – Russian invasion of Ukraine: The Russian flagship Moskva becomes the largest warship to be sunk in action since World War II. Ukraine claims to have struck it with Neptune anti-ship missiles, while Russia claims it sank during stormy weather after an onboard fire.","[-0.01054576 -0.01315071  0.0019156  ...  0.00662838  0.00374172
+  0.00920019]",0.1466114734368058
+28,28,"February 26 – Russian invasion of Ukraine: The EU, US, and their allies commit to removing Russian banks from the SWIFT payment system, as well as imposing measures on the Russian Central Bank and further restrictions on Russian elites. These and other sanctions fuel a financial crisis in Russia.","[-0.0133289  -0.02053791  0.01324462 ...  0.00231278  0.02414242
+ -0.00699508]",0.14702339834089473
+41,41,Russian invasion of Ukraine: Russia is condemned by world leaders following an attack by its troops on the Zaporizhzhia nuclear plant – the largest in Europe – which led to a fire at the site.,"[ 0.0003715  -0.0345321   0.01281524 ...  0.01142117  0.01048752
+ -0.01030847]",0.14718720807699548
+152,152,"September 27 – Russian occupation authorities in Ukraine claim that their annexation referendums show an overwhelming support for the annexation by Russia of the Donetsk People's Republic, the Luhansk People's Republic, and parts of Kherson Oblast and Zaporizhzhia Oblast. However, the voting is widely dismissed as a sham referendum.","[ 0.00323672  0.0037394   0.01170594 ...  0.02189887  0.01172585
+ -0.00135624]",0.14942318379508412
+135,135,September 2 – Russian invasion of Ukraine: The G7 economies agree to impose a price cap on Russian petroleum exports.,"[-0.0107727  -0.01847686  0.00493066 ...  0.00778939  0.01148739
+  0.00037005]",0.15221866866419032
+40,40,March 2 – The International Criminal Court begins an investigation into possible war crimes committed by Russia in Ukraine.,"[ 0.00371066 -0.00602023  0.0102427  ...  0.01958973  0.01200846
+ -0.00099884]",0.15498812286401853
+34,34,February 28 – Russian invasion of Ukraine: Football governing bodies FIFA and UEFA suspend Russian clubs and national teams from all competitions.,"[ 0.00663338 -0.01808874  0.0137843  ...  0.00278021  0.01860628
+ -0.00319046]",0.15638454302354832
+103,103,June 26 – G7 leaders gather for a summit in Germany to discuss the situation in Ukraine. A ban on imports of Russian gold is announced.,"[ 0.00034239 -0.01178026  0.00369689 ...  0.00546553  0.01573255
+ -0.02294756]",0.163793132980399
+36,36,March 1 – Russian invasion of Ukraine: World Athletics bans both Russia and Belarus from competing in all of its events.,"[-0.00207576 -0.00791224  0.00381197 ...  0.00314408  0.01029553
+ -0.00536239]",0.16548557593648228
+177,177,"November 15 – Two missiles impact the village of Przewodów, Poland, close to the border with Ukraine.","[-9.31458920e-03 -8.63832422e-03 -4.04722086e-05 ...  1.96754746e-02
+  3.85981263e-03 -5.72592020e-04]",0.1772134148075889
+8,8,"January 6 – The CSTO deploys a ""peacekeeping"" mission in Kazakhstan, including Russian paratroopers, following a request by Kazakh president Tokayev.","[ 0.01342934  0.00311033  0.00679267 ...  0.02605265  0.02571464
+ -0.01513238]",0.17768780859353805
+31,31,"February 27 – In a constitutional referendum, Belarus votes to revoke its non-nuclear status and to allow the country to host Russian forces permanently.","[-0.00977826 -0.00280923  0.00522798 ...  0.0190789   0.01256006
+ -0.01781386]",0.17975335351284571
+78,78,April 27 – The European Union accuses Russia of blackmail after gas supplies to Poland and Bulgaria are halted by energy giant Gazprom.,"[ 0.00192514 -0.02539594  0.01324116 ...  0.01450649  0.01727997
+ -0.00057994]",0.1815340093096126
+2,2," – 2022 was also dominated by wars and armed conflicts. While escalations into the internal conflict in Myanmar and the Tigray War dominated the heightening of tensions within their regions and each caused over 10,000 deaths, 2022 was most notable for the Russian invasion of Ukraine, the largest armed conflict in Europe since World War II. The invasion caused the displacement of 15.7 million Ukrainians (8 million internally displaced persons and 7.7 million refugees), and led to international condemnations and sanctions and nuclear threats, the withdrawal of hundreds of companies from Russia, and the exclusion of Russia from major sporting events.","[-0.00960624 -0.01530103  0.01075978 ... -0.00184302  0.00816762
+ -0.00841955]",0.1852374402882785
+185,185,"December 2 – The G7 and Australia join the EU in imposing a cap of $60 a barrel on Russian crude oil, designed to ""prevent Russia from profiting from its war of aggression against Ukraine.""","[-0.00972514 -0.01762151 -0.00789637 ...  0.01806564 -0.00264192
+ -0.00111686]",0.18858057703861408
+47,47,"March 8 – The US and UK announce a ban on Russian oil, while the EU announces a two-thirds reduction in its demand for Russian gas.","[-0.00496971 -0.02373746  0.01297028 ...  0.02679379  0.01547265
+ -0.00158308]",0.193980269980204
+35,35,"February 28 – 2022 Russian financial crisis: In an unprecedented move, Switzerland, Monaco, Singapore and South Korea impose unilateral sanctions over Russia including the introduction of export controls and asset freezes.","[-0.01182431 -0.02810988  0.00392828 ...  0.01929264  0.03061029
+  0.00459944]",0.19411257822339012
+101,101,June 23 – The European Council granted Moldova and Ukraine the status of a candidate for accession to the European Union.,"[-0.00013546 -0.00202176  0.02511603 ...  0.01816258  0.00505044
+ -0.01303298]",0.1951025458552026
+21,21,"February 4 – China and Russia issue a joint statement opposing further NATO expansion, expressing ""serious concerns"" about the AUKUS security pact, and pledging to cooperate with each other on a range of issues.","[-0.0108957  -0.03534158 -0.00198764 ...  0.01061798  0.00595485
+ -0.00436926]",0.20020380984369113
+105,105,"June 28 – June 30 – A NATO summit is held in Madrid, Spain along with the presence of guest countries from the European Union and the Indo-Pacific primarily searching for a consensual defensive reinforcement after the Russian invasion of Ukraine and the sustained threatening over the territorial integrity of other countries.","[-0.01422865 -0.02104878  0.02421813 ... -0.00192568  0.00180867
+ -0.00976214]",0.2045440166161776
+140,140,"September 12 – September 2022 Armenia–Azerbaijan clashes: Azerbaijan attacks Armenian positions near the cities of Vardenis, Goris, Sotk and Jermuk, and occupies certain areas of its territory along the Armenia–Azerbaijan border. Over the next few days, more than 100 Armenian soldiers are killed in the clashes, while Azerbaijan acknowledges 71 fatalities among its forces.","[-0.01295014 -0.00870191 -0.00564995 ... -0.00644193  0.02020063
+ -0.01548185]",0.21082340147561607
+57,57,"March 27 – The M23 offensive begins in North Kivu, Democratic Republic of the Congo.","[-0.01939212  0.00401603  0.00977286 ...  0.0157057   0.00700804
+  0.01172487]",0.21084249314598946
+65,65,"April 7 – The UN votes by 93–24 to suspend Russia from the Human Rights Council, with 58 countries abstaining.",[0.01498732 0.00627413 0.00347582 ... 0.00631825 0.02639483 0.00231301],0.21170771383796305
+7,7,"January 5 – A nationwide state of emergency is declared in Kazakhstan in response to the 2022 Kazakh unrest. The cabinet of prime minister Askar Mamin resigns, while president Kassym-Jomart Tokayev removes former president Nursultan Nazarbayev, widely regarded as being the real power in the country, from his position as Chairman of the Security Council of Kazakhstan.","[-0.00281834 -0.0062215  -0.0013307  ...  0.01357299  0.01973171
+ -0.0237362 ]",0.21798277484102024
+44,44,"March 4 – Insurgency in Khyber Pakhtunkhwa: An Afghan man on behalf of the Islamic State – Khorasan Province commits a suicide attack at a Shia mosque in Peshawar, Khyber Pakhtunkhwa, Pakistan, killing 63 people.","[-0.01610562 -0.00038503  0.01283679 ...  0.01361692  0.00967111
+ -0.01308179]",0.21810846513367943
+150,150,"September 26 – The Nord Stream pipeline sabotage occurs by an unknown perpetrator off the coast of Bornholm, Denmark with explosions on two pipelines leaving them inoperable.","[-0.01716987 -0.03460823  0.02486208 ...  0.00921588  0.00413137
+  0.00971259]",0.21893935612609605
+83,83,"May 10–May 14 – The Eurovision Song Contest 2022 is held in Turin, Italy. The contest is won by Ukrainian folk-rap group Kalush Orchestra with their song ""Stefania"".","[-0.00879483 -0.03802546  0.01528198 ...  0.00171634 -0.00639741
+ -0.03392292]",0.22131546951711745
+141,141,September 14–September 20 – 2022 Kyrgyzstan–Tajikistan clashes: Dozens are killed as sporadic clashes occur between Kyrgyz and Tajik troops along their countries' respective border.,"[-0.02255697 -0.01500319  0.01761244 ... -0.01320933  0.02579245
+ -0.00646768]",0.22143654166165372
+68,68,"April 8 – Global food prices increase to their highest level since the UN's Food Price Index began in 1990, with commodities such as wheat rising by nearly 20% as a result of the Ukraine crisis.","[-0.00355463 -0.01846981 -0.00169631 ...  0.00193933  0.01129575
+  0.01259836]",0.221805696512561
+133,133,"August 30 – Mikhail Gorbachev, the final leader of the Soviet Union, dies at the age of 91.","[ 0.00286033 -0.01191806 -0.0262388  ...  0.00673132  0.01999691
+  0.00412524]",0.22279443377878083
+134,134,September 1 – The UN releases a report stating that the Chinese government's Xinjiang internment camps and treatment of Uyghurs may constitute crimes against humanity.,"[ 0.00792521 -0.02103525  0.01206793 ...  0.01756154  0.01900248
+ -0.00545823]",0.22868037003120856
+17,17,January 23 – A coup d'état in Burkina Faso removes president Roch Kaboré from power. The Burkinabé military cites the government's failure to contain activities of Islamist militants within the country as a reason for the coup.,"[-0.02871892 -0.01281396  0.00640046 ... -0.00052821  0.00941647
+  0.00631894]",0.23041193302820318
+6,6,"January 4 – The five permanent members of the UN Security Council—China, France, Russia, the United Kingdom and the United States—issue a rare joint statement affirming that ""a nuclear war cannot be won and must never be fought.""","[-0.0031675  -0.01268884 -0.0074437  ...  0.01378184  0.01821666
+ -0.00878169]",0.23044793898777793
+88,88,May 18 – Finland and Sweden applied to join NATO.,"[-0.0079677  -0.03266056  0.01458516 ...  0.00496787  0.02012624
+ -0.01006949]",0.23129881656288453
+15,15,"January 17 – In Abu Dhabi, United Arab Emirates, a terrorist attack against 3 oil tanker trucks and an under construction airport extension infrastructure is conducted by the Houthi movement using drones and missiles, killing 3 people and injuring 6 others.","[-0.02720562 -0.02206004  0.00583826 ... -0.01147861  0.01423611
+  0.01369517]",0.23332109111578614
+124,124,"August 5 – August 7 – Israel launches airstrikes in the Gaza Strip, killing Islamic Jihad military leader Tayseer Jabari. Both parties agree to a ceasefire after three days of skirmish.","[-0.03574819 -0.00491341 -0.00205107 ... -0.00620556  0.02627466
+ -0.01201202]",0.23363891694947148
+130,130,"August 19 – The coalition government of Montenegrin prime minister Dritan Abazović collapses after the 81-seat Parliament of Montenegro passes a motion of no confidence in a vote of 50–1, following dispute within the coalition over an agreement the government signed with the Serbian Orthodox Church.","[-0.00747492  0.00509892 -0.02432295 ... -0.01595785 -0.00373419
+ -0.00821456]",0.23530400132085794
+154,154,"September 30 – Burkina Faso's military junta is overthrown by the country's second coup of the year, led by army captain Ibrahim Traoré.","[-0.0302975  -0.01734271  0.00337909 ... -0.0018838   0.01363388
+  0.00730666]",0.23568849610983456
+50,50,"March 10 – The National Assembly of Hungary elects former minister for Family Affairs, Katalin Novák, as president of Hungary in a 137–51 vote.","[-0.01300063 -0.01209781 -0.00017643 ... -0.00056104  0.00437224
+ -0.02881291]",0.23592292718995211
+147,147,"September 24 – The 2022 Nauruan parliamentary election is held, which is followed by Ubenide parliament member Russ Kun being elected president by parliament.","[-0.01368719 -0.02200529  0.0005298  ... -0.01089024 -0.00504178
+ -0.01236475]",0.23610661524800614
+97,97,"June 14 – Canada and Denmark end their competing claims for Hans Island by dividing the island roughly in half, ending what was referred to as the Whisky War.","[-0.01032998 -0.01581798 -0.00523351 ...  0.0223827   0.01836295
+ -0.00989929]",0.23796547794568024
+122,122,"August 4 – China conducts its largest ever military exercise around Taiwan in response to a controversial visit by Nancy Pelosi, the highest-ranking U.S. official to visit Taiwan since the 1990s.","[-0.018541   -0.02351129  0.00341219 ... -0.01258836  0.00657392
+ -0.01437741]",0.2405110577807682
+107,107,"July 6 – July 31 – UEFA Women's Euro 2022, originally intended for 2021 but indirectly delayed due to UEFA Euro 2020 being delayed, is held in England, with the hosts winning their first major tournament since 1966.","[-0.00133594 -0.03912262 -0.00610582 ... -0.0087415   0.01875518
+ -0.01313744]",0.24158362309547476
+42,42,"March 3 – The National Assembly of Armenia elects incumbent minister of High-Tech Industry and former mayor of Yerevan, Vahagn Khachaturyan, as president of Armenia following the resignation of Armen Sarkissian.","[-0.00537075 -0.0060102  -0.01576022 ... -0.00789949  0.01168452
+  0.00220901]",0.2418893070244964
+94,94,June 4 – Retired general Bajram Begaj is elected President of Albania by the parliament in the fourth round of voting.,"[-0.01002572 -0.00137172 -0.01373992 ... -0.02696037  0.01648011
+  0.00336031]",0.24331466251833123
+100,100,"June 22 – A 6.2 earthquake strikes the Durand Line between Afghanistan and Pakistan, killing at least 1,163 people.","[-0.00160271 -0.00260777  0.00214729 ...  0.00607445 -0.0002133
+ -0.01992158]",0.2433222577515881
+79,79,"April 28 – The Parliament of Montenegro elects a new government with Dritan Abazović as prime minister, following a motion of no confidence against the government of Zdravko Krivokapić.","[ 0.00271653 -0.00054101 -0.03269966 ... -0.01167664 -0.01209457
+  0.00099812]",0.2443158569633962
+171,171,"November 2–November 3 – Tigray War: The Ethiopian government and the TPLF agree to a formal cessation of hostilities, signing a peace agreement in Pretoria, South Africa.","[-0.0173642  -0.03537488  0.00436368 ... -0.00241942  0.01317507
+ -0.00319518]",0.24443854584307467
+93,93,"May 28 – Spanish club Real Madrid beat English club Liverpool 1–0 to win the UEFA Champions League final played at the Stade de France in Paris, France.","[-6.90568751e-03 -9.48111806e-03 -4.48767132e-05 ... -1.49602192e-02
+ -2.22983002e-03  3.16208228e-04]",0.24524160136001716
+20,20,February 3 – Islamic State leader Abu Ibrahim al-Hashimi al-Qurashi is killed in Atme during a counter-terrorism raid by U.S. special forces in north-western Syria.,"[-0.0384721   0.00744221 -0.00948735 ... -0.00045248  0.01880481
+ -0.00050107]",0.24665716337806087
+96,96,"June 8 – 2022 South Khorasan train derailment: In Iran, a passenger train derailed travelling from Tabas to Yazd crashed into an excavator and derailed, killing 18 and injuring 87.","[-0.0196323  -0.02270357  0.02034716 ... -0.0006524  -0.00236799
+  0.01230494]",0.2480169870984279
+193,193,"December 24 – 2022 Fijian general election: The Parliament of Fiji elects Sitiveni Rabuka as Prime Minister of Fiji, defeating incumbent Prime Minister Frank Bainimarama after a contentious election.","[-0.01172434 -0.00938462 -0.02316586 ... -0.00425522  0.00119316
+  0.00262576]",0.24806684899570264
+27,27,January 23 – February 22 - Twosday,"[ 0.00231719  0.01542372  0.01227696 ...  0.00340733  0.00421217
+ -0.0224297 ]",0.24856493192781903
+129,129,August 17 – Turkey and Israel agree to restore full diplomatic relations after a period of tensions.,"[-0.01072169 -0.01428693 -0.00372759 ...  0.01589746  0.00663044
+ -0.02126155]",0.24924275772174187
+127,127,"August 10 – Spanish club Real Madrid beat German club Eintracht Frankfurt 2–0 to win the 2022 UEFA Super Cup played at the Olympic Stadium in Helsinki, Finland.","[-0.00757757 -0.01231838  0.00304422 ... -0.01763812  0.00235271
+ -0.01000265]",0.2496848744992135
+158,158,"October 12–October 13 – 2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting. Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead due to a self-inflicted gunshot the morning after the attack.","[-0.01601332  0.00460666 -0.00305    ... -0.01111999 -0.01563999
+ -0.01430666]",0.24968540515114723
+23,23,"February 5 – Cyclone Batsirai kills a total of 123 people across Madagascar, Mauritius, and Réunion two weeks after Tropical Storm Ana killed 115 people in the same region.","[-0.02132948 -0.00404423  0.00193548 ...  0.00384807 -0.01150824
+ -0.01530073]",0.250155613816749
+139,139,"September 11 – The 2022 Swedish general election is held to elect all 349 seats of the Riksdag. Prime Minister Magdalena Andersson resigns after her centre-left bloc narrowly loses to a bloc of right-wing parties, 176 seats to 173; Andersson is succeeded as prime minister by Ulf Kristersson in October.","[-0.01139421 -0.03258863 -0.00771422 ... -0.01511357 -0.00208599
+ -0.00641211]",0.25022367719875127
+91,91,May 24 – Uvalde school shooting: 18-year-old Salvador Ramos fatally shoots 19 students and two teachers at Robb Elementary School.,"[-0.02397775 -0.00218768 -0.00514314 ... -0.00391919 -0.00053969
+  0.01051757]",0.2503659352025486
+115,115,"July 21 – The Parliament of Sri Lanka elects Prime Minister Ranil Wickremesinghe as President of Sri Lanka, following the resignation of Gotabaya Rajapaksa amid protests over the ongoing economic crisis.","[ 0.00940611 -0.00220318 -0.02257467 ... -0.00513549  0.01191231
+ -0.00262771]",0.25051147833402876
+95,95,"June 5 – At least 50 people are killed in a dual mass shooting-bomb attack in Owo, Nigeria.","[-0.01836874 -0.00365193 -0.01245121 ... -0.00163823  0.01889503
+ -0.0042424 ]",0.25056971913153636
+99,99,"June 19 – The second round of the 2022 Colombian presidential election is held, and former guerrilla fighter for the 19th of April Movement and incumbent senator, Gustavo Petro, defeats businessman and former mayor of Bucaramanga, Rodolfo Hernández Suárez.","[-0.03162943 -0.01067129  0.01653055 ... -0.00406636  0.00352948
+  0.01357441]",0.25111637887599825
+110,110,"July 8 – Former Prime Minister of Japan Shinzo Abe is assassinated while giving a public speech in the city of Nara, Japan.","[-0.0114628  -0.00536644 -0.01271317 ... -0.00146379 -0.00269274
+ -0.01499176]",0.25242126570779677
+104,104,"June 27 – 53 migrants from Mexico, Honduras, Guatemala, and El Salvador are found dead in a tractor trailer in San Antonio, Texas, United States.","[ 0.00023397 -0.01005208  0.00897801 ... -0.00286683  0.00608748
+ -0.00036151]",0.2526340856963629
+24,24,"February 6 – Queen Elizabeth II celebrates her ""Platinum Jubilee"", marking 70 years as Queen of the United Kingdom.","[-0.0158828  -0.01429823 -0.01587042 ...  0.01712074  0.00893175
+ -0.0060133 ]",0.25322965719484214
+143,143,"September 16 – Protests erupt in Iran following the death of Mahsa Amini in the custody of the country's ""morality police"".","[-0.02155522 -0.00529136 -0.00618787 ... -0.00359903 -0.00095985
+ -0.0115312 ]",0.2534711052729476
+13,13,"January 15 – A large eruption of Hunga Tonga–Hunga Ha'apai, a submarine volcano in Tonga, triggers tsunami warnings in Australia, Canada, Chile, Fiji, Japan, New Zealand, Samoa, and the United States.","[-0.00617535 -0.01719638  0.00971691 ...  0.01388496  0.02138999
+  0.00538905]",0.25393750587907993
+48,48,March 9 – 2022 South Korean presidential election: People Power Party candidate Yoon Suk-yeol is narrowly elected President of South Korea.,"[-0.0111029  -0.03455072  0.02214307 ...  0.0088635   0.00018789
+  0.00257499]",0.25443262434902725
+183,183,"November 21 – A 5.6 earthquake strikes near Cianjur in West Java, Indonesia, killing 635 people and injuring 7,700 more.","[ 0.00405766 -0.00409655  0.02365887 ... -0.00301408  0.00038182
+ -0.01350824]",0.2545462864132588
+128,128,"August 12 – Indian-born British-American novelist Salman Rushdie is stabbed multiple times as he is about to give a public lecture at the Chautauqua Institution in Chautauqua, New York, United States.","[-0.01807325  0.00181091 -0.00648081 ... -0.0282965   0.01519144
+ -0.00330234]",0.25461450637092387
+109,109,"July 7 – After revelations over his appointment of Chris Pincher as Deputy Chief Whip triggered a series of resignations from his government, UK Prime Minister Boris Johnson announces his intention to resign, triggering the July–September 2022 Conservative Party leadership election.","[-0.00685682 -0.01108614 -0.02659154 ...  0.00702143  0.01094685
+ -0.0084713 ]",0.254629034821403
+52,52,"March 12 – 2022 Turkmenistan presidential election: Serdar Berdimuhamedow, son of former President Gurbanguly Berdimuhamedow, wins with 89% of the total votes.","[-0.00120585 -0.01382135 -0.02792399 ...  0.00529968  0.02431842
+ -0.00055738]",0.2546463269280368
+151,151,"September 27–September 30 – Hurricane Ian impacts Cuba and the United States, causing catastrophic damage to both nations, killing at least 157 people, 16 missing, and leaving millions without power, including the entire nation of Cuba.","[-0.02692617 -0.01814193  0.00712905 ... -0.01459696  0.00080153
+ -0.01841563]",0.25469049304451774
+119,119,July 27 – A 7.0 earthquake strikes the island of Luzon in the Philippines killing 11 people and injuring over 600.,"[ 0.00210494  0.00394656  0.00795735 ...  0.00773257  0.00160159
+ -0.03108442]",0.2554344250043985
+19,19,January 28 – COVID-19 pandemic: The number of vaccinations administered worldwide exceeds 10 billion.,"[-0.00799522 -0.00762554 -0.00273191 ... -0.0073749   0.00649768
+ -0.0171183 ]",0.2555990201834101
+136,136,"September 5 – A 6.8 earthquake strikes Luding County in Sichuan province, China, killing 117 and injuring 424.","[ 0.01270445  0.01633146  0.01465339 ...  0.00273512 -0.00358407
+ -0.03004671]",0.25595516962296094
+181,181,November 20–December 18 – The 2022 FIFA World Cup is held in Qatar and won by Argentina.,"[ 0.00320342 -0.01554958  0.01295171 ... -0.00695276 -0.0012205
+ -0.01610179]",0.25611498433667845
+131,131,"August 27 – September 11 – The 2022 Asia Cup is held in the United Arab Emirates, and is won by Sri Lanka.","[-0.00751336 -0.01412304  0.02223024 ... -0.01571092  0.01234153
+  0.01046319]",0.2563494618256297
+58,58,March 29 – The Democratic Republic of the Congo is admitted to the East African Community.,"[ 0.0040206   0.00443119  0.0060767  ...  0.00914032 -0.00931719
+ -0.00170868]",0.25657777454577513
+51,51,March 11 – Gabriel Boric is sworn in as President of Chile. He becomes the youngest head of state in the nation's history and the first to be born during the military dictatorship of Augusto Pinochet.,"[-0.01254707 -0.00962399 -0.00767309 ... -0.01085717 -0.01252098
+  0.00233423]",0.256908552619905
+155,155,"October 1 – A fatal human crush occurs during an association football match at Kanjuruhan Stadium in Malang Regency, East Java, Indonesia, killing 135 people and injuring more than 500.","[-0.00251673  0.0024058   0.01732571 ... -0.01111336  0.00499372
+  0.00018803]",0.256951447985329
+81,81,May 9 – Prime Minister of Sri Lanka Mahinda Rajapaksa resigns as a result of massive protests against his government across the country. He is succeeded by Ranil Wickremesinghe as prime minister three days later.,"[-0.00145477  0.00081638 -0.0145936  ... -0.01821353 -0.00416418
+  0.00429708]",0.25769373824515907
+188,188,"December 7 – After substantial protests against China's Zero-COVID policies, the Chinese government eases on its COVID restrictions.","[ 0.01540542 -0.01896252 -0.01203139 ...  0.0105667   0.01224064
+ -0.02900612]",0.25777956124901036
+54,54,"March 19 – The apostolic constitution Praedicate evangelium, reforming the Roman Curia, is promulgated by Pope Francis, coming into force on 5 June.","[ 0.00106367 -0.01347539 -0.00920741 ...  0.0127973   0.00658147
+ -0.02463729]",0.2581680476581313
+165,165,"October 29 – A double car bombing by al-Shabaab in Mogadishu, Somalia kills at least 121 people and injures around 300.","[-0.01766198 -0.00503753  0.00922419 ... -0.01018464  0.00224642
+  0.00377412]",0.2587376691702652
+126,126,"August 9 – 2022 Kenyan general election: William Ruto is elected as Kenya's 5th president, defeating longtime opposition leader Raila Odinga. His victory is certified by the nation's election supervisory agency on August 15 amid protests and violence by Odinga supporters.","[-0.0223873  -0.01099342 -0.00540628 ... -0.01461052  0.00823537
+  0.01378376]",0.25923703749238236
+192,192,"December 21–December 26 – A major winter storm hits the northern United States and southern Canada. Killing at least 91 people, the storm also severely disrupts North American air traffic, with Southwest Airlines alone canceling more than half of its schedule.","[-0.02485132 -0.0238666   0.00335584 ...  0.00493334 -0.00827946
+ -0.00795553]",0.25988954740559667
+163,163,October 28 – Sam Matekane is sworn in as Prime Minister of Lesotho after securing a victory in the 7 October elections.,"[-0.00078558 -0.01175425 -0.03038531 ... -0.00758996  0.01282397
+  0.0001758 ]",0.2602529627621277
+125,125,August 6 – Terrance Drew is sworn in as prime minister of Saint Kitts and Nevis.,"[-0.00312748 -0.0088359  -0.03414284 ... -0.00177501  0.01020631
+  0.00553059]",0.26060042340281386
+114,114,"July 19 – 2022 European heat waves: A series of severe heatwaves from July to August hit Europe, causing at least 53,000 deaths and additionally causing major wildfires, travel disruption, and record high temperatures in many countries.","[-0.00193969 -0.015145    0.00482675 ... -0.01649379  0.0050098
+ -0.01546614]",0.2607893994209749
+74,74,"April 20 – A European Southern Observatory team announce the discovery of micronovae, a new type of exploding star.","[-0.00431991 -0.00123519 -0.00540557 ...  0.02748619 -0.00143509
+ -0.02261045]",0.2610993778181614
+175,175,November 15 – The world population reaches 8 billion.,"[ 0.00067966 -0.01107037  0.00707063 ...  0.00069743  0.00934536
+ -0.02301271]",0.2611048850331603
+164,164,"October 29 – At least 158 people are killed and another 197 injured in a crowd crush during Halloween festivities in Seoul, South Korea.","[ 0.00079682 -0.00043769  0.02293298 ... -0.00727878 -0.01266573
+  0.00197521]",0.26119960546330523
+43,43,"March 4 – March 13 – The 2022 Winter Paralympics are held in Beijing, China, making it the first city to host both Summer Paralympics and Winter Paralympics.","[-0.00609926 -0.02275862 -0.00855048 ... -0.00317763 -0.01338893
+ -0.00918409]",0.261294579756417
+22,22,"February 4 – February 20 – The 2022 Winter Olympics are held in Beijing, China, making it the first city ever to host both the Summer Olympics and Winter Olympics.","[-0.00918049 -0.02713136 -0.01327544 ... -0.00234087  0.00236611
+ -0.00923097]",0.26136517179444285
+159,159,"October 16–October 23 – The 20th National Congress of the Chinese Communist Party is held. Xi Jinping is elected as General Secretary by the Central Committee, beginning a third term as the paramount leader of China.","[-0.00924073 -0.01631778  0.01080554 ...  0.00053851  0.00318918
+ -0.01403819]",0.2613997938322662
+5,5,January 2 – Abdalla Hamdok resigns as Prime Minister of Sudan amid deadly protests.,"[-0.01488294  0.00127301 -0.0210051  ... -0.0015476   0.00840334
+  0.00727249]",0.2615814398449129
+116,116,"July 21 – The European Central Bank raises its key interest rate for the first time in more than 11 years, from minus 0.5 per cent to zero, with plans for further increases later in the year.","[-0.01867773 -0.02240311  0.01741899 ...  0.00744439  0.01011446
+ -0.01379533]",0.2616914342590281
+137,137,September 6 – Liz Truss is appointed Prime Minister of the United Kingdom after winning the July–September 2022 Conservative Party leadership election.,"[-0.01059402  0.00142035 -0.01702544 ...  0.01161905  0.00356884
+ -0.01415036]",0.2617374221697064
+80,80,"May 6 – 2022 monkeypox outbreak: An outbreak of monkeypox begins when the first monkeypox virus case is reported in London, the United Kingdom.","[-0.00615644 -0.01309615  0.00115531 ...  0.00291687  0.01245701
+ -0.00250017]",0.26199590417315743
+9,9,January 7 – COVID-19 pandemic: The number of COVID-19 cases exceeds 300 million worldwide.,"[ 0.00634309 -0.00336085  0.00531901 ...  0.00026902  0.00334223
+ -0.02723434]",0.2620326331892231
+170,170,"November 1 – 2022 Danish general election: A bloc of left-leaning political parties wins a narrow one-seat majority of 90 seats. Incumbent Prime Minister Mette Frederiksen's second government takes office in December, in the form of a coalition with Venstre and the Moderates.","[-0.02347169 -0.04115974 -0.01799928 ... -0.00305553  0.00110307
+  0.0034397 ]",0.2621062163749881
+168,168,"October 30 – The collapse of a suspension bridge in Gujarat, India, leaves at least 135 dead.","[ 0.00848732  0.02359604  0.0152383  ... -0.01252365  0.01606759
+ -0.01950139]",0.26220368222818125
+187,187,December 7 – The Congress of Peru removes President Pedro Castillo from office and arrests him after he tries to dissolve Congress in a self-coup attempt. Vice President Dina Boluarte becomes the first female President of Peru.,"[-0.02636924  0.00800192 -0.01974112 ...  0.01688934 -0.00627979
+  0.00278016]",0.2622241097235659
+16,16,"January 23 – Tropical Storm Ana kills 115 people in Madagascar, Malawi and Mozambique, days after a series of floods killed 11 people in Madagascar.","[-0.01511044 -0.00723481  0.00060197 ... -0.00521624 -0.02049329
+ -0.00758085]",0.2624089523129116
+160,160,"October 20 – Amid a government crisis, Liz Truss announces her resignation as leader of the Conservative Party and her intention to resign as prime minister of the United Kingdom, after 45 days in office.","[-0.01309651 -0.00546744 -0.00789847 ...  0.01839596 -0.00227889
+ -0.01971449]",0.2624365096724357
+10,10,"January 9 – February 6 – The 2021 Africa Cup of Nations is held in Cameroon, with Senegal winning their first championship.","[-0.00282081 -0.02070924  0.01574818 ... -0.01405634  0.02236293
+  0.00064359]",0.2627021441424128
+112,112,"July 18 – Droupadi Murmu is elected as President of India, making her the first tribal and youngest person to be elected to the office.","[-0.0276258  -0.00422629 -0.02239964 ... -0.00731534  0.00066924
+ -0.0032935 ]",0.26310695361341097
+179,179,"November 19 – The 2022 Malaysian general election results in a hung parliament, which is the first in the country's history. Long-time opposition leader Anwar Ibrahim is appointed by Yang di-Pertuan Agong Abdullah as prime minister five days later to break the political deadlock and form a unity government.","[-0.02531058 -0.02213395 -0.01578069 ... -0.00153308  0.00742282
+  0.00539579]",0.2634496805761962
+121,121,"July 31 – Ayman al-Zawahiri, the Egyptian terrorist who became the 2nd Emir of al-Qaeda after Osama bin Laden's death in 2011, is killed in an airstrike in Kabul, Afghanistan conducted by the United States' Central Intelligence Agency.","[-0.03543685 -0.0122066  -0.0152875  ...  0.01090665 -0.00145758
+ -0.00695477]",0.2636249591798493
+123,123,"August 4 – The Prime Minister of Peru, Aníbal Torres, resigns following multiple criminal investigations against the President of Peru, Pedro Castillo.","[ 0.00326292  0.00176888 -0.00597936 ...  0.01039916 -0.01735963
+  0.00352817]",0.2639397695767872
+196,196,"December 7 – The world population was estimated to have reached 8 billion after 11 years on 15 November 2022. China was the most populous country throughout the year, followed by India. Africa was the fastest growing continent.","[-0.00404158 -0.01436307  0.00298232 ... -0.00767333 -0.01659508
+ -0.01015125]",0.26404631559199754
+120,120,"July 28–August 8 – The 2022 Commonwealth Games is held in Birmingham, England.","[-0.00665647 -0.00751496 -0.00689352 ... -0.00566024  0.01197396
+ -0.00845673]",0.2642592715465574
+14,14,"January 16 – World No. 1 tennis champion Novak Djokovic is deported from Australia following a high-profile legal case regarding his COVID-19 vaccination status, preventing his participation in the 2022 Australian Open.","[-1.40944067e-02 -2.56724097e-02  2.67526833e-03 ... -1.93559788e-02
+  6.85656676e-03  5.66945600e-05]",0.26444585906224705
+92,92,May 27 – Fiji announces that it will become the 14th member of the Indo-Pacific Economic Framework in order to counter Chinese influence in the Pacific. This comes amid a visit by Chinese foreign minister Wang Yi to Kiribati.,"[-0.00748139  0.00078149  0.00190632 ...  0.00053094 -0.01094742
+ -0.02059998]",0.26478599439542616
+98,98,"June 19 – The second round of the 2022 legislative election is held in France, resulting in a hung parliament, with President Macron's coalition losing its majority in the National Assembly. A newly-formed coalition of left-wing parties, led by far-left Jean-Luc Mélenchon, makes significant gains. Marine Le Pen's far-right National Rally also makes historic gains, increasing its number of MPs tenfold and becoming the largest opposition party in Parliament. Two weeks later, Macron's government is reshuffled, continuing as a minority administration.","[-0.02891987 -0.00253571 -0.00884969 ...  0.00235774 -0.01914929
+ -0.01545267]",0.264860235776851
+169,169,"November 1 – 2022 Israeli legislative election: A bloc of right-wing and far-right political parties led by former Prime Minister Benjamin Netanyahu wins a 64-seat majority (out of 120), allowing him to be sworn in as Prime Minister of Israel for a third time in December.","[-0.01901761 -0.01867987 -0.02249898 ... -0.00050459 -0.00335796
+ -0.00531298]",0.2651074006437004
+55,55,"March 21 – China Eastern Airlines Flight 5735 crashes in Guangxi, China, killing all 133 people on board.","[-0.01207811 -0.00543578 -0.00638782 ...  0.01534586  0.00587252
+ -0.00961473]",0.26539175507646795
+102,102,"June 23 – Dickon Mitchell's party wins a majority of seats in Grenada's general election, defeating Prime Minister Keith Mitchell's party. Dickon Mitchell is sworn in the following day.","[-0.01408451 -0.00556312 -0.02315566 ... -0.02049845 -0.00014153
+  0.00198636]",0.2655204654865658
+66,66,"April 7 – President of Yemen Abdrabbuh Mansur Hadi resigns from office, dismisses vice president Ali Mohsen al-Ahmar, and transfers both offices' powers to the newly formed eight-member Presidential Leadership Council, chaired by Rashad al-Alimi.","[-0.01914222 -0.01191173 -0.00118579 ... -0.01187261  0.02628795
+  0.00977322]",0.2655991279879161
+167,167,"October 30 – 2022 Brazilian general election: Luiz Inácio Lula da Silva defeats incumbent Jair Bolsonaro in a runoff election after neither candidate secured a majority in the first round of voting. Lula da Silva is the first president elected three times, and also the oldest one, at 77.","[-0.0222526  -0.010391   -0.01688618 ... -0.00039466 -0.0063178
+  0.00784324]",0.26563509254216144
+146,146,"September 22 – October 1 – The 2022 FIBA Women's Basketball World Cup is held in Sydney, Australia. In the final, the United States wins 83–61 against China.","[-0.01518459 -0.02635767  0.00028728 ... -0.0091609   0.00971377
+ -0.01490173]",0.2656362427793397
+172,172,"November 6–November 18 – The 2022 United Nations Climate Change Conference (COP27) on climate change mitigation takes place in Sharm el-Sheikh, Egypt.","[-0.01598659 -0.02645881  0.01984411 ...  0.0075443   0.00364251
+ -0.02213333]",0.2658570650298119
+64,64,April 6 – The first known dinosaur fossil linked to the very day of the Chicxulub impact is reported by palaeontologists.,"[-0.01958471 -0.01161093 -0.00122961 ...  0.02582892  0.00857149
+ -0.02328546]",0.2661583777533971
+108,108,"July 7 – July 17 – The 2022 World Games is held in Birmingham, Alabama, United States.","[-0.00407362 -0.01793283 -0.00237019 ... -0.01541817  0.03048073
+ -0.01138582]",0.2662767524059909
+62,62,"April 3 – The second round of voting of the 2022 Costa Rican general election is held, and Social Democratic Progress Party presidential candidate Rodrigo Chaves Robles is elected president.","[-0.02194669 -0.01458771 -0.00503406 ...  0.0045261  -0.01695821
+  0.00615093]",0.26656451509743695
+106,106,"July 1 – Yair Lapid succeeds Naftali Bennett as Prime Minister of Israel, while Bennett succeeds Lapid as Alternate Prime Minister of Israel; this arrangement had been created after the 2021 Israeli legislative election, in which no party won an outright majority.","[-0.00411242 -0.01458573 -0.02253685 ...  0.00206273 -0.00145092
+ -0.02059469]",0.26683734231289147
+118,118,"July 23 – The World Health Organization (WHO) declares the recent monkeypox outbreak a Public Health Emergency of International Concern, as the number of reported cases exceeds 17,000 in 75 countries.","[ 0.00281193  0.00441966  0.01439911 ... -0.00793617 -0.00081427
+ -0.02395582]",0.2668770534310003
+90,90,"May 21 – 2022 Australian federal election: The Labor party, led by Anthony Albanese, defeats the Liberal-National Coalition government led by Prime Minister Scott Morrison. Albanese is sworn in as Prime Minister two days later.","[-0.01584001 -0.01215124 -0.02381746 ... -0.00751156  0.00619688
+ -0.00027183]",0.26712099476853557
+70,70,April 13 – COVID-19 pandemic: The number of confirmed cases exceeds 500 million worldwide.,"[ 0.00017686 -0.00729469  0.00460006 ...  0.01097976 -0.00718149
+ -0.01924288]",0.26733543738788346
+142,142,"September 14–September 25 – The Atlantic hurricane Fiona hits Guadeloupe, Puerto Rico, the Dominican Republic, the Lucayan Archipelago, Bermuda, and Eastern Canada.","[-0.02721405 -0.01124059 -0.00563015 ... -0.0217581  -0.0017699
+ -0.00396379]",0.2673762883198235
+45,45,"March 5 – Researchers in the Antarctic find Endurance, one of the greatest ever undiscovered shipwrecks, which sank in 1915 during Ernest Shackleton's exploration.","[-0.00706975 -0.00793877  0.00057621 ...  0.00339766 -0.00062522
+ -0.01956269]",0.2676801771196272
+176,176,"November 15 – The 2022 G20 Bali summit in Bali, Indonesia takes place.","[-0.01121506 -0.02802151  0.03199875 ... -0.00553005 -0.00181268
+ -0.00827732]",0.2685548498009275
+86,86,"May 15 – Former President of Somalia Hassan Sheikh Mohamud is elected president again, beating President Mohamed Abdullahi Mohamed.","[-0.01142139 -0.00955879 -0.01936334 ... -0.02019116  0.03854559
+  0.01260492]",0.26881701242264777
+190,190,December 18 – Argentina wins the 2022 FIFA World Cup against runners-up France.,"[ 4.27422253e-03  7.37142764e-05  1.60283351e-03 ... -8.18208326e-03
+  9.74394195e-03 -9.06263757e-03]",0.2691918176549378
+189,189,"December 17 – Leo Varadkar succeeds Micheál Martin as Taoiseach (Prime Minister) of Ireland, as part of a rotation agreement made in 2020.","[ 0.00826493 -0.02384698 -0.025136   ... -0.0019051  -0.00815119
+ -0.01496281]",0.26948937291847985
+46,46,March 7 – COVID-19 pandemic: The global death toll from COVID-19 surpasses 6 million.,"[ 0.00575331 -0.00597626  0.00409668 ... -0.00014805  0.00618992
+ -0.02573818]",0.2699420551244569
+89,89,"May 20 – 2022 monkeypox outbreak: The World Health Organization (WHO) holds an emergency meeting to discuss the spread of monkeypox in nearly a dozen countries, as the number of reported cases reaches 100.","[-0.01188665 -0.01844371  0.00943173 ... -0.00643304 -0.00517378
+ -0.00551085]",0.27002179046319974
+32,32,"February 28 – The Intergovernmental Panel on Climate Change (IPCC) releases the second part of its Sixth Assessment Report on climate change. It concludes that many impacts are on the verge of becoming ""irreversible"".","[-0.01424806 -0.01221906  0.00570695 ...  0.01972312 -0.01803552
+ -0.02687292]",0.2714914053587828
+82,82,May 9 – 2022 Philippine presidential election: Bongbong Marcos and Sara Duterte are elected the 17th President and 15th Vice President of the Philippines in a landslide victory.,"[-0.03295157 -0.02457947 -0.00943299 ... -0.0111138  -0.01022547
+  0.00750294]",0.27153428085111364
+18,18,"January 24 – The federal government under Scott Morrison announces that, after more than three years of confidential negotiations, copyright ownership of the Australian Aboriginal flag has been transferred to the Commonwealth.","[-0.00895854 -0.00861272 -0.01632503 ...  0.0116337   0.02606001
+ -0.02957035]",0.27159767448924477
+73,73,"April 19 – The second round of voting of the 2022 East Timorese presidential election is held and the National Congress for Timorese Reconstruction party presidential candidate, former president and former prime minister José Ramos-Horta is elected.","[-0.03661065 -0.01253403 -0.01743864 ...  0.0112931   0.00125898
+ -0.00144118]",0.2718406071731274
+156,156,October 5 – OPEC+ imposes a production cut of up to 2 million barrels per day.,"[-0.02461588 -0.0209815   0.01130913 ...  0.01813327 -0.00166576
+ -0.01016211]",0.2728508106712465
+69,69,"April 11 – The National Assembly of Pakistan elects leader of the opposition Shehbaz Sharif as prime minister of Pakistan, after Imran Khan is removed from office following a motion of no confidence two days prior.","[-0.01706765 -0.00255541 -0.02349014 ...  0.02146731 -0.00303267
+ -0.01280706]",0.2729766271692545
+60,60,April 1 – The joint venture AMITA Health split up as AdventHealth and Ascension parted ways.,"[ 7.61969620e-03  9.03608634e-06  8.10772087e-03 ... -6.26298646e-03
+  1.88442692e-02 -9.91666690e-03]",0.27474343605463114
+191,191,"December 19 – At the UN Biodiversity Conference (COP15), nearly 200 countries agree a landmark deal to protect a third of the planet for nature by 2030.","[ 0.00176036 -0.00927175  0.02923628 ...  0.01060357 -0.02316982
+ -0.02554033]",0.2750934422177661
+12,12,January 13 – Bikaner-Guwahati Express derailment: The Bikaner-Guwahati Express train derailed in Maynaguri. 9 people were killed and 50 people were injured. This was the first major train accident of 2022.,"[-0.01927352 -0.0049487   0.00472148 ... -0.03886782  0.00296053
+  0.01725528]",0.27513885933329385
+161,161,"October 25 – Rishi Sunak becomes Prime Minister of the United Kingdom, following the resignation of Liz Truss the previous week resulting in a 50-day tenure, making him the first person of colour to become the prime minister.","[ 0.00753003 -0.02275516 -0.01950442 ...  0.00559355 -0.00089681
+  0.00272376]",0.2755135533440821
+149,149,September 26 – NASA's DART crashes into the asteroid Dimorphos in a first test of potential planetary defense.,"[-0.0047092  -0.01151509 -0.01182127 ... -0.00101423 -0.01389798
+ -0.00498876]",0.2762370440082219
+76,76,"April 24 – The 2022 Slovenian parliamentary election is held to elect all 90 members of the National Assembly of Slovenia, the lower house of the Slovenian Parliament; the Freedom Movement party becomes the largest party, winning 41 of 90 seats.","[-0.01002263 -0.00118884 -0.01231659 ...  0.00149455 -0.01158986
+ -0.0135236 ]",0.27665232247266447
+162,162,October 28 – Elon Musk completes his $44 billion acquisition of Twitter.,"[-0.01023484 -0.01616891  0.00474536 ...  0.01369691  0.01363385
+ -0.00178621]",0.2767308847091181
+148,148,"September 25 – The 2022 Italian general election is held to elect all 400 seats of the Chamber of Deputies and 200 seats of the Senate of the Republic (reduced from 630 and 215 respectively according to the outcome of the 2020 constitutional referendum). Observers commented that the results shifted the geopolitics of the European Union, following far-right gains in France, Spain, and Sweden. It was also noted that the election outcome would mark Italy's most right-wing government since 1945.","[-0.01927556 -0.01555231 -0.00331925 ...  0.00431793 -0.01182906
+ -0.02602394]",0.2775601048564479
+138,138,September 8 – Queen Elizabeth II of the United Kingdom and 14 other Commonwealth realms dies at Balmoral Castle in Scotland at the age of 96. Her son Charles III succeeds her as King.,"[-0.00260202 -0.00092258 -0.02052295 ...  0.02921652  0.01038895
+ -0.00382415]",0.27813406109644545
+197,197,December 7 –  Media related to 2022 at Wikimedia Commons,"[-0.01053168 -0.01810936 -0.00279989 ...  0.01668372 -0.00110856
+ -0.01965058]",0.2783584366061903
+186,186,"December 5 – The National Ignition Facility achieves fusion ignition, a major milestone in the development of nuclear fusion power.","[-0.02921981 -0.00903558 -0.01874527 ...  0.01216628 -0.00098361
+ -0.00747996]",0.27918549113697744
+132,132,"August 28 – 2022 Pakistan floods: Pakistan declares a ""climate catastrophe"" and appeals for international assistance, as the death toll from recent flooding in the country exceeds 1,000, the world's deadliest flood since 2017. Several nations, alongside the UN, pledge millions in funding for aid.","[-0.01190025 -0.02287622 -0.00476588 ... -0.00149716 -0.00767034
+ -0.01081549]",0.27940804127845664
+77,77,"April 25 – Elon Musk reaches an agreement to acquire the social media network Twitter (which he later rebrands as X) for $44 billion USD, which later closes in October.","[-0.01153571 -0.01457479  0.01079994 ...  0.01221391  0.01543214
+ -0.00359251]",0.28027470784455333
+1,1," – The year began with another wave in the COVID-19 pandemic, with Omicron spreading rapidly and becoming the dominant variant of the SARS-CoV-2 virus worldwide. Tracking a decrease in cases and deaths, 2022 saw the removal of most COVID-19 restrictions and the reopening of international borders in the vast majority of countries, while the global rollout of COVID-19 vaccines continued. The global economic recovery from the pandemic continued, though many countries experienced an ongoing inflation surge; in response, many central banks raised their interest rates to landmark levels. The world population reached eight billion people in 2022. The year also witnessed numerous natural disasters, including two devastating Atlantic hurricanes (Fiona and Ian), and the most powerful volcano eruption of the century so far. The later part of the year also saw the first public release of ChatGPT by OpenAI starting an arms race in artificial intelligence which increased in intensity into 2023, as well as the collapse of the cryptocurrency exchange FTX.","[-0.00472267 -0.01999484 -0.00651529 ... -0.0135361  -0.01487308
+ -0.00886664]",0.28040051586260084
+111,111,"July 11 – The first operational image from the James Webb Space Telescope, showing the galaxy cluster SMACS 0723, is revealed to the public.","[ 0.00699665 -0.00097643 -0.00583917 ...  0.01196286 -0.01365706
+ -0.00894951]",0.280691852402421
+75,75,"April 22 – The Large Hadron Collider recommences full operations, three years after being shut down for upgrades.","[-0.01247605  0.00194582 -0.02694989 ...  0.02880018  0.01270399
+  0.00131733]",0.2810776866599394
+85,85,May 13 – Mohamed bin Zayed Al Nahyan is elected as the 3rd president of the United Arab Emirates by the Federal Supreme Council following the death of Khalifa bin Zayed Al Nahyan a day earlier.,"[-0.01949142 -0.02951014 -0.01262181 ... -0.00881241  0.00969492
+ -0.00666645]",0.2811586981242703
+113,113,July 18 – IFLA-UNESCO Public Library Manifesto issued.,"[-0.01823561  0.00830407 -0.01361334 ... -0.00452555  0.02852066
+ -0.03607103]",0.28229330883801573
+178,178,"November 16 – NASA launches Artemis 1, the first uncrewed mission of its Space Launch System, the most powerful rocket ever to reach orbit. The onboard Orion capsule orbits the Moon before returning to Earth, as a demonstration of planned human missions.","[ 0.01189862 -0.01329121 -0.02979512 ... -0.0084657   0.0173589
+  0.00015606]",0.2826478420330618
+25,25,"February 9 – The biggest breakthrough in fusion energy since 1997 is reported at the Joint European Torus in Oxford, the UK, with 59 megajoules produced over five seconds (11 megawatts of power), more than double the previous record.","[-0.01084926 -0.01678863 -0.01156198 ...  0.00122747  0.0075958
+ -0.01284225]",0.2830258742219385
+144,144,"September 19 – The state funeral of Elizabeth II is held in Westminster Abbey, London. Her coffin is then taken by procession to Windsor Castle for burial with her husband, parents and sister in the King George VI Memorial Chapel. The funeral is speculated to be the most watched television event in world history.","[-0.00511324 -0.01080606 -0.00594719 ...  0.01338199 -0.00804336
+ -0.01892026]",0.28402392147722955
+11,11,"January 10 – The first successful heart transplant from a pig to a human patient occurs in Baltimore, Maryland, United States.","[-0.00895865 -0.01288935  0.00981062 ... -0.01119186  0.00711916
+ -0.00524094]",0.2868424457643298
+194,194,"December 29 – Brazilian football legend Pelé dies at the age of 82, with his funeral being held at the Vila Belmiro stadium in Santos.","[-0.00761676  0.00407267  0.00833003 ...  0.00778234  0.01699123
+ -0.00578581]",0.2878155360183505
+84,84,"May 12 – The Event Horizon Telescope collaboration reveals its first image of Sagittarius A*, the supermassive black hole at the centre of the Milky Way.","[ 0.00071866 -0.00930329 -0.01612041 ...  0.01958517 -0.00282339
+ -0.03456828]",0.28867577996370286
+180,180,"November 19–November 26 – The 2022 Central American and Caribbean Beach Games are held in Santa Marta, Colombia.","[-0.02168465 -0.02511741  0.01298618 ... -0.01258461 -0.00037566
+ -0.01192397]",0.289314062256366
+4,4," January 1 – The Regional Comprehensive Economic Partnership, the largest free trade area in the world, comes into effect for Australia, Brunei, Cambodia, China, Indonesia, Japan, South Korea, Laos, Malaysia, Myanmar, New Zealand, the Philippines, Singapore, Thailand, and Vietnam.","[-0.00056793 -0.02413112 -0.00528155 ... -0.00852922 -0.01503767
+ -0.0180557 ]",0.2896189252189425
+184,184,"November 30 – OpenAI releases ChatGPT, an artificial intelligence chatbot able to answer questions and write essays.","[-1.12703629e-02 -1.44411689e-02  1.81974483e-05 ... -1.02546625e-02
+ -3.46705248e-03 -3.81538570e-02]",0.2903778912403854
+0,0," – 2022 (MMXXII) was a common year starting on Saturday of the Gregorian calendar, the 2022nd year of the Common Era (CE) and Anno Domini (AD) designations, the 22nd  year of the 3rd millennium and the 21st century, and the  3rd   year of the 2020s decade.  ","[ 4.63678371e-05 -1.79402083e-02 -1.71618368e-02 ... -7.92181399e-03
+ -1.27866361e-02 -1.30188921e-02]",0.29090909661562714
+59,59,"March 31 – Expo 2020 closes in Dubai after a 6-month run; originally scheduled for 10 April 2021, it was delayed due to the COVID-19 pandemic.","[-0.00319747 -0.04659819 -0.00171698 ... -0.00157687  0.03213668
+ -0.0174808 ]",0.29211124337819083
+195,195,"December 31 – Former Pope Benedict XVI dies at the age of 95, with his funeral being held in St. Peter's Square, presided over by Pope Francis and Cardinal Giovanni Battista Re.","[ 0.02353226  0.00770594 -0.01282165 ...  0.00869023  0.00426741
+ -0.00915   ]",0.2931790249503293
+173,173,"November 11 – The cryptocurrency exchange FTX, once valued at $18 billion, files for Chapter 11 bankruptcy, in a collapse that affects the cryptocurrency environment.","[ 2.42813956e-03 -2.54112240e-02 -7.90280974e-05 ...  6.16780529e-03
+  5.63262310e-03 -4.67259958e-02]",0.2940368511389043
+182,182,"November 20 – 2022 Nepalese general election: The Nepali Congress, led by Prime Minister Sher Bahadur Deuba, emerged as the largest party with 89 seats, but the governing bloc falls short of the majority by two seats, leading into likely coalition government.","[-0.00424838 -0.00068485 -0.0016169  ... -0.00911517  0.0024656
+ -0.00331753]",0.2956707604856531
+63,63,"April 4 – The Intergovernmental Panel on Climate Change (IPCC) releases the third and final part of its Sixth Assessment Report on climate change, warning that greenhouse gas emissions must peak by 2025 at the latest and decline 43% by 2030, in order to limit global warming to 1.5 °C (2.7 °F).","[-0.01046813 -0.01640951  0.00268937 ...  0.01750262 -0.01567648
+ -0.02659472]",0.2985585542284671
