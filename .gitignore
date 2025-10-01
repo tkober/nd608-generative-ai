@@ -131,3 +131,5 @@ cython_debug/
 course-3-llms-and-text-generation/5_17-build-a-dataset-for-question-answering/tmp_trainer/
 course-3-llms-and-text-generation/5_17-build-a-dataset-for-question-answering/ft-distilbert
 course-3-llms-and-text-generation/5_17-build-a-dataset-for-question-answering/qa_data.hf
+
+course-2-generative-ai-fundamentals/4_13-create-a-bert-sentiment-classifier/data/*
